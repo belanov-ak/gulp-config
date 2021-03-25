@@ -1,0 +1,13 @@
+requirments:
+gulp
+browser-sync
+gulp-concat
+gulp-sourcemaps
+gulp-uglify
+gulp-plumber
+gulp-rename
+gulp-clean-css
+gulp-sass
+gulp-group-css-media-queries
+gulp-webp
+gulp-imagemin
