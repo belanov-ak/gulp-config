@@ -10,8 +10,8 @@ const sass = require('gulp-sass')
 const gcmq = require('gulp-group-css-media-queries')
 const autoprefixer = require('gulp-autoprefixer')
 const htmlmin = require('gulp-htmlmin')
-const htmlmin = require('gulp-webp')
-const htmlmin = require('gulp-imagemin')
+const webp = require('gulp-webp')
+const imagemin = require('gulp-imagemin')
 
 function scripts() {
     return src('src/js/*.js')
