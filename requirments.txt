@@ -11,10 +11,14 @@ gulp-rename
 gulp-uglify-es
 gulp-babel
 gulp-imagemin
-gulp-webp
-gulp-webp-html
-gulp-webpcss
 gulp-svg-sprite
 gulp-ttf2woff
 gulp-ttf2woff2
 fs
+plumber
+sourcemaps
+
+
+gulp-webp
+gulp-webp-html
+gulp-webpcss
